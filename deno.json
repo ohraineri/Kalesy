@@ -4,6 +4,7 @@
   },
   "imports": {
     "@std/assert": "jsr:@std/assert@1",
-    "@sentry/deno": "npm:@sentry/deno"
+    "@sentry/deno": "npm:@sentry/deno",
+    "express": "npm:express@5.2.1"
   }
 }

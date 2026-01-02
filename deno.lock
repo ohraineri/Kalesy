@@ -394,7 +394,8 @@
   "workspace": {
     "dependencies": [
       "jsr:@std/assert@1",
-      "npm:@sentry/deno@*"
+      "npm:@sentry/deno@*",
+      "npm:express@5.2.1"
     ]
   }
 }
